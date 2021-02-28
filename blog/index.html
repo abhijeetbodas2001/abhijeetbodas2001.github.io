@@ -1,0 +1,19 @@
+---
+layout: page
+title: Blog
+---
+
+<p>
+  An archive of all published blog posts.
+</p>
+<br>
+<ul style="list-style-type:none;">
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.language == "Marathi" %}
+      (Marathi)
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
