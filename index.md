@@ -18,5 +18,5 @@ I have a keen interest in software development and open source, and am currently
 exploring machine learning and related areas. Checkout my
 [GitHub profile](https://github.com/abhijeetbodas2001), where I put most of my work.
 
-I go by `abhijeetbodas2001` on most online platforms. You can find links
-to my social media accounts in the sidebar. Feel free to reach out!
+I go by `abhijeetbodas2001` (or `abhijeetpbodas`) on most online platforms. You can find
+links to my social media accounts in the sidebar. Feel free to reach out!
