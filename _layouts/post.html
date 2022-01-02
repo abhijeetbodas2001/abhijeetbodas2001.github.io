@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<!-- For blog posts -->
+
+<h2>{{ page.title }}</h2>
+<p style="text-align: right;">{{ page.date | date_to_string: "ordinal", "US" }}</p>
+
+{{ content }}
+
+<hr style="margin-bottom: -10px;">
+    <p style="text-align: center;">
+    <a href="/">{{ site.url }}</a>
+</p>

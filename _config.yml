@@ -1,0 +1,5 @@
+url: https://abhijeetbodas2001.github.io/
+collections_dir: collections
+collections:
+  posts:
+    permalink: /articles/:title

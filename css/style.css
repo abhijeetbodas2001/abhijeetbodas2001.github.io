@@ -1,0 +1,47 @@
+body {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: rgb(35, 35, 35);
+  padding: 0 10px;
+  font-family: 'David', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: -10pt;
+}
+
+a {
+  text-decoration: none;
+  color: #0000ee;
+}
+a:visited {
+  color: #0000ee;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.footnote:before {   
+  content: "[";
+ }
+ 
+ a.footnote:after {
+     content: "]";
+ }
