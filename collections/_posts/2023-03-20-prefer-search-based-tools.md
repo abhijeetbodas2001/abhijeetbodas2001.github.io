@@ -52,7 +52,7 @@ various reasons. I'll explain this method with some examples:
 
    <img src="/assets/posts/2023-03-20-prefer-search-based-tools/YouTube.png" width="100%"/>
 
-   Even the video player page is much cleaner than th default one.
+   Even the video player page is much cleaner than the default one.
 
    Another solution is to use the
    [YouTube search engine](https://addons.mozilla.org/en-US/firefox/addon/youtube-search-engine/)

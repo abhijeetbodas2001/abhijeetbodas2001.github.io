@@ -6,7 +6,6 @@ layout: page
 ## Undergraduate
 
 - [Courses undertaken and academic performance](/assets/academic_performance.png)
-- [Timetable for the current semester (January to April 2023)](/assets/timetable_42.png)
 
 ## Schooling
 

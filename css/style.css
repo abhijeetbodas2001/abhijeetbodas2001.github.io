@@ -3,10 +3,15 @@ body {
   margin-left: auto;
   max-width: 600px;
   line-height: 1.6;
-  font-size: 18px;
+  font-size: 20px;
   color: rgb(35, 35, 35);
   padding: 0 10px;
-  font-family: 'David', sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+.footer {
+  padding-top: 10px;
+  border-top: 1px solid black;
 }
 
 h1,
@@ -26,6 +31,18 @@ h6 {
   margin-bottom: -10pt;
 }
 
+.post-body h1 {
+  font-size: 30px;
+}
+.post-body h2 {
+  font-size: 25px;
+}
+.post-body h3 {
+  font-size: 20px;
+}
+
+
+
 a {
   text-decoration: none;
   color: #0000ee;
@@ -38,10 +55,14 @@ a:hover {
   text-decoration: underline;
 }
 
-a.footnote:before {   
+a.footnote:before {
   content: "[";
- }
- 
- a.footnote:after {
-     content: "]";
- }
+}
+
+a.footnote:after {
+  content: "]";
+}
+
+.footnotes {
+  border-top: 1px solid black;
+}
