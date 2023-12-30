@@ -1,5 +1,16 @@
 url: https://abhijeetbodas2001.github.io/
 collections_dir: collections
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 collections:
   posts:
     permalink: /articles/:title
+  notes:
+    permalink: /notes/:title
+    output: true

@@ -65,6 +65,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  kramdown (~> 2.4)
+  rouge (~> 4.1)
   safe_yaml
 
 BUNDLED WITH
