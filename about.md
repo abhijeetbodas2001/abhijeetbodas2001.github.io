@@ -18,5 +18,5 @@ been of in the past.
 
 Code for the website is licensed under the
 [GNU GPLv3](https://github.com/abhijeetbodas2001/abhijeetbodas2001.github.io).  
-All content here, including articles is licensed under
+All textual content here, is licensed under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).

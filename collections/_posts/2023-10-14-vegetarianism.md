@@ -128,7 +128,7 @@ to consider here:
    vegetarianism associated with the Brahman community? Yes. But, so is it
    associated with many other communities.
 
-So vegetarianism is fat from a Brahman-only thing. And just because it is
+So vegetarianism is far from a Brahman-only thing. And just because it is
 associated partly with Brahmans, and Brahmans have been accused of
 discrimination/oppression/what-not, does not make vegetarianism-the-practice by
 itself a casteist/oppressive thing. The practice itself deserves to be
