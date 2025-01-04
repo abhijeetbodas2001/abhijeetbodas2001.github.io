@@ -22,6 +22,7 @@ B.Tech, Mechanical Engineering, IIT Bombay
     <a href="https://github.com/abhijeetbodas2001/resume/raw/master/latest/one_page.pdf">Résumé</a>&nbsp;&#124;
     <a href="/articles">Articles</a>&nbsp;&#124;
     <a href="/academics">Academics</a>&nbsp;&#124;
+    <a href="/logs">Logs</a>&nbsp;&#124;
     <a href="/contact">Contact</a>&nbsp;&#124;
     <a href="/about">About</a>
 </div>
