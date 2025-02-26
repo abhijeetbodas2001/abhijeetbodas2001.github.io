@@ -20,6 +20,10 @@ layout: page
 ### 2023
 - [Designing Distributed Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
 
+### 2022
+
+- [राधेय](https://www.goodreads.com/book/show/6727763)
+
 # Courses
 
 ## TODO
